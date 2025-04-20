@@ -2,7 +2,7 @@
 
 ## The Challenge: Defining the Objective
 
-Diabetes presents a significant global health challenge, often developing undetected in its early stages. Proactive identification is crucial. The core objective was to leverage standard health metrics – glucose, blood pressure, BMI, age, etc. – to develop a predictive model capable of identifying individuals at higher risk of diabetes. The aim: engineer an intelligent system to flag potential risks early, empowering healthcare providers and patients with actionable insights.
+Diabetes presents a significant global health challenge, often developing undetected in its early stages. Proactive identification is crucial. The core objective was to leverage standard health metrics (glucose, blood pressure, BMI, age, etc...) to develop a predictive model capable of identifying individuals at higher risk of diabetes. The aim: engineer an intelligent system to flag potential risks early, empowering healthcare providers and patients with actionable insights.
 
 ## The Asset: Understanding the Dataset
 
